@@ -14,4 +14,4 @@ print("Making a POST request and writing file on disk: ")
 POST(url_download, write_disk(file_name, overwrite = TRUE))
 
 print("Checking which files we have: ")
-dir_l
+dir_ls()
