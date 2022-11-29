@@ -1,7 +1,7 @@
 on:
   workflow_dispatch: 
   
-name: 03-run-r-script
+name: 04-run-r-script-with-pkgs
 
 jobs: 
   write-message: 
