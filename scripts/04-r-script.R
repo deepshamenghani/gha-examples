@@ -5,7 +5,7 @@ print("Checking which files we have: ")
 dir_ls()
 
 # the URL
-url_dowload = "https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/apportionment.csv"
+url_download = "https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/apportionment.csv"
 
 # file name to save
 file_name = paste("sigbm_download_", Sys.Date(),".csv")
